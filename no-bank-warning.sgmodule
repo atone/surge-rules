@@ -1,0 +1,5 @@
+#!name=消除代理警告
+#!desc=消除银行App对代理的警告
+
+[General]
+skip-proxy = %APPEND% *.abchina.com.cn, *.ccb.com, *.boc.cn, mobile.95559.com.cn
