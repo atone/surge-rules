@@ -1,2 +1,2 @@
-# surge-modules
-a place to place surge modules and scripts
+# surge-rules
+a place to place surge rule files and scripts
