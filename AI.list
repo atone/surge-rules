@@ -1,0 +1,10 @@
+DOMAIN,copilot.microsoft.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,gsas.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-KEYWORD,apple-relay
+DOMAIN-KEYWORD,openai
