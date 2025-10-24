@@ -1,7 +1,7 @@
 DOMAIN,copilot.microsoft.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,apple-relay.cloudflare.com
-DOMAIN,apple-relay.fastly-dege.com
+DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apple-relay.apple.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,guzzoni.apple.com
