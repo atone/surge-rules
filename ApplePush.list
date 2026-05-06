@@ -1,5 +1,6 @@
 # Apple Push Notification service (APNs) 代理规则
 DOMAIN-SUFFIX,push.apple.com
+DOMAIN,identity.apple.com
 
 # APNs IPv4 Fallback (防止 DNS 污染)
 IP-CIDR,17.249.0.0/16,no-resolve
